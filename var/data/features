@@ -1,0 +1,90 @@
+(lp0
+S'Date'
+p1
+aS'Unix'
+p2
+aS'Ticker'
+p3
+aS'Price'
+p4
+aS'stock_p_change'
+p5
+aS'SP500'
+p6
+aS'sp500_p_change'
+p7
+aS'Difference'
+p8
+aS'DE Ratio'
+p9
+aS'Trailing P/E'
+p10
+aS'Price/Sales'
+p11
+aS'Price/Book'
+p12
+aS'Profit Margin'
+p13
+aS'Operating Margin'
+p14
+aS'Return on Assets'
+p15
+aS'Return on Equity'
+p16
+aS'Revenue Per Share'
+p17
+aS'Market Cap'
+p18
+aS'Enterprise Value'
+p19
+aS'Forward P/E'
+p20
+aS'PEG Ratio'
+p21
+aS'Enterprise Value/Revenue'
+p22
+aS'Enterprise Value/EBITDA'
+p23
+aS'Revenue'
+p24
+aS'Gross Profit'
+p25
+aS'EBITDA'
+p26
+aS'Net Income Avl to Common '
+p27
+aS'Diluted EPS'
+p28
+aS'Earnings Growth'
+p29
+aS'Revenue Growth'
+p30
+aS'Total Cash'
+p31
+aS'Total Cash Per Share'
+p32
+aS'Total Debt'
+p33
+aS'Current Ratio'
+p34
+aS'Book Value Per Share'
+p35
+aS'Cash Flow'
+p36
+aS'Beta'
+p37
+aS'Held by Insiders'
+p38
+aS'Held by Institutions'
+p39
+aS'Shares Short (as of'
+p40
+aS'Short Ratio'
+p41
+aS'Short % of Float'
+p42
+aS'Shares Short (prior '
+p43
+aS'Status'
+p44
+a.

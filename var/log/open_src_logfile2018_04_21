@@ -1,0 +1,2 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co
+DEBUG:requests.packages.urllib3.connectionpool:"GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&outputsize=full&apikey=LBQ67F59FL7NECLE HTTP/1.1" 200 None

@@ -1,0 +1,61 @@
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): in.finance.yahoo.com
+DEBUG:urllib3.connectionpool:https://in.finance.yahoo.com:443 "GET /quote/AAPL/key-statistics?p=AAPL HTTP/1.1" 200 None
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): in.finance.yahoo.com
+DEBUG:urllib3.connectionpool:https://in.finance.yahoo.com:443 "GET /quote/AAPL/key-statistics?p=AAPL HTTP/1.1" 200 None
+INFO:root:loading the pickle
+INFO:root:loading the pickle
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): in.finance.yahoo.com
+DEBUG:urllib3.connectionpool:https://in.finance.yahoo.com:443 "GET /quote/AAPL/key-statistics?p=AAPL HTTP/1.1" 200 None
+INFO:root:loading the pickle
